@@ -1,0 +1,59 @@
+/* Style the body element */
+body {
+
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #1aa441;
+  margin: 0;
+  padding: 0;
+}
+
+/* Style the h1 element */
+h1 {
+  background-color: #3498db;
+  color: #fff;
+  padding: 20px;
+}
+
+/* Style the select elements */
+select {
+  width: 150px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Style the input elements */
+input {
+  width: 150px;
+  padding: 10px;
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #fff;
+}
+
+/* Style the button element */
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+/* Style the button on hover */
+button:hover {
+  background-color: #2980b9;
+}
+
+/* Style the container that holds the elements */
+.container {
+  margin: 20px;
+}
+
+/* Add more styles as needed */
+
